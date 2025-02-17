@@ -1,2 +1,3 @@
 # Javascriptadvance
-Javascript concepts like objects, array methods etc covered
+Javascript concepts like objects, object creation, object build-in methods 
+array methods etc covered
