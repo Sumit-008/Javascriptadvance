@@ -1,3 +1,3 @@
 # Javascriptadvance
-Javascript concepts like objects, object creation, object build-in methods <br>
-array methods etc covered
+Javascript concepts like objects, object creation, and object build-in methods <br>
+array methods like map, filter, slice, splice etc covered
